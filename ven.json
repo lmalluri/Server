@@ -1,0 +1,8 @@
+[
+    { "lifnr" : 123,
+    "name"  : "Laxman",
+    "citi"  : "Hyderabad" },
+    { "lifnr" : 124,
+    "name"  : "Vasudha",
+    "citi"  : "Hyderabad" }    
+]
